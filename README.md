@@ -80,3 +80,4 @@ endmodule
 
 
 **Result:**
+the output of HALF_ADDER_SUBTRACTOR  has been executed successfully
